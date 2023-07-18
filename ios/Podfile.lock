@@ -1,0 +1,28 @@
+PODS:
+  - Flutter (1.0.0)
+  - permission_handler_apple (9.1.1):
+    - Flutter
+  - zego_express_engine (3.6.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - permission_handler_apple (from `.symlinks/plugins/permission_handler_apple/ios`)
+  - zego_express_engine (from `.symlinks/plugins/zego_express_engine/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  permission_handler_apple:
+    :path: ".symlinks/plugins/permission_handler_apple/ios"
+  zego_express_engine:
+    :path: ".symlinks/plugins/zego_express_engine/ios"
+
+SPEC CHECKSUMS:
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+  permission_handler_apple: e76247795d700c14ea09e3a2d8855d41ee80a2e6
+  zego_express_engine: 61ba3b4a6d5dbe80f2b5e473b1a2db5a6c31da00
+
+PODFILE CHECKSUM: ddb296fff4cbf0fb17845238e691171c1aa3c9a7
+
+COCOAPODS: 1.12.1
